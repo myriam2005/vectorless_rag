@@ -1,0 +1,14 @@
+[project]
+name = "vectorless-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "myriam2005", email = "myriam.kary@etudiant-fst.utm.tn" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"
